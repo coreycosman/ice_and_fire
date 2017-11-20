@@ -3,3 +3,4 @@ FactoryGirl.define do
     name "Trogdor"
   end
 end
+test
